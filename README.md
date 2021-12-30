@@ -8,5 +8,5 @@ I am basically in charge of all front-end development. I implemented a animated,
 
 ![Responsive Design](/Calcourse2.gif?raw=true)
 
-This is the extracted front-end Codebase for Calcourse Website. It is using react framework and the framework codes are not included. Back-end java codes, which are not by me, are excluded as well for conciseness.
+This is the extracted front-end Codebase for Calcourse Website. It is using react framework and the framework codes are not included. Back-end java codes, which are not by me, are excluded as well for conciseness. It is in typescript. [Why typescript instead of the vanilla javascript?](https://stackoverflow.com/questions/12694530/what-is-typescript-and-why-would-i-use-it-in-place-of-javascript)
 
